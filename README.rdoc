@@ -1,5 +1,5 @@
 {<img alt='Build Status' src='https://travis-ci.org/taikit/CMSY.svg?branch=master' />}[https://travis-ci.org/taikit/CMSY]
-{<img alt='Coverage Status' src='https://badge.waffle.io/taikit/CMSY.png?label=ready&title=Ready' />}[https://coveralls.io/github/taikit/CMS://coveralls.io/github/taikit/CMSY]
+{<img alt='Coverage Status' src='https://coveralls.io/repos/taikit/CMSY/badge.svg?branch=master&service=github' />}[https://coveralls.io/github/taikit/CMSY]
 {<img alt='Stories in Ready' src='https://badge.waffle.io/taikit/CMSY.png?label=ready&title=Ready' />}[https://waffle.io/taikit/CMSY]
 == README
 
