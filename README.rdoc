@@ -1,3 +1,4 @@
+{<img alt='Build Status' src='https://travis-ci.org/taikit/CMSY.svg?branch=master' />}[https://travis-ci.org/taikit/CMSY]
 {<img alt='Stories in Ready' src='https://badge.waffle.io/taikit/CMSY.png?label=ready&title=Ready' />}[https://waffle.io/taikit/CMSY]
 == README
 
